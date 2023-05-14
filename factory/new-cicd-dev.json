@@ -1,0 +1,9 @@
+{
+	"name": "new-cicd-dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "56d0c9f3-e245-43e9-8bf3-3d72ffabd3c8",
+		"tenantId": "a444fb41-ff47-4987-8c5e-a855ba9910e1"
+	}
+}
